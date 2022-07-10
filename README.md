@@ -1,6 +1,7 @@
 # shopping-cart
 
 ## About <a name = "about"></a>
+![alt](/public/imgs/shopping-cart.png)
 
 Shopping cart
 
